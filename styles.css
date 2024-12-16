@@ -1,18 +1,18 @@
 body {
     margin: 0;
     font-family: 'Work Sans', sans-serif;
-    color: #333333; /* Grigio scuro */
+    color: #333333; 
 }
 
 p a {
-    color: #007bff; /* Blu pulsanti */
+    color: #007bff; 
     text-decoration: none;
     font-weight: bold;
     transition: color 0.3s ease;
 }
 
 p a:hover {
-    color: #0056b3; /* Blu scuro hover */
+    color: #0056b3; 
     text-decoration: underline;
 }
 
@@ -21,7 +21,7 @@ header {
     position: sticky;
     top: 0;
     z-index: 1000;
-    background-color: #f8f9fa; /* Grigio chiaro */
+    background-color: #f8f9fa; 
     box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@ header .logo {
     font-family: 'Raleway', sans-serif;
     font-size: 24px;
     font-weight: 700;
-    color: #555555; /* Grigio medio */
+    color: #555555; 
     text-decoration: none;
     transition: color 0.5s ease, text-shadow 0.5s ease;
 }
