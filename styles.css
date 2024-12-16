@@ -45,6 +45,7 @@ header .logo:hover {
 }
 
 /* Navigation */
+
 header nav {
     display: flex;
     align-items: center;
